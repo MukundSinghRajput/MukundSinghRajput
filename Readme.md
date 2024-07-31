@@ -35,9 +35,3 @@
     <img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Arch-1B36B9?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
-
-
-## Contact
-<p align="center">
-  <a href="https://t.me/itzMukund"><img src="https://img.shields.io/badge/Telegram-8FBDD3?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</p>
