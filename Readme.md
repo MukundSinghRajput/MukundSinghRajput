@@ -27,9 +27,6 @@
 
 ## Operating Sytem
 <p>
-    <img src="https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Arch-1B36B9?style=for-the-badge&logo=archlinux&logoColor=white" />
 </p>
