@@ -17,12 +17,14 @@
     <img src="https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-1F7BB5?style=for-the-badge&logo=go&logoColor=lightblue" />
     <img src="https://img.shields.io/badge/Rust-FF6600?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
 ## Frameworks and tools
 <p>
     <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
 
 ## Operating Sytem
