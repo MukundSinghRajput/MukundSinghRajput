@@ -1,8 +1,3 @@
-<p align="center">
-    <img src="https://avatars.githubusercontent.com/u/159029180?s=400&u=f4d04d654e359b5be78b0f2d09c7efada81e5c66&v=4" width=312 height=312/>
-    <br>
-</p>
-
 ```
 Ohoye! Welcome to my profile!
 By the way, my name is Mukund. 😊
