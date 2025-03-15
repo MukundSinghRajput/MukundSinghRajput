@@ -28,4 +28,4 @@ By the way, my name is Mukund. 😊
 
 ## Currently Playing
 
-<a href="https://open.spotify.com/user/31rzbjzgg5fa54pet4fqqx5dcqeu?si=d4614b32608342ce" target="_blank">![Spotify](https://delicious-shalne-legend-mukund-71c9f792.koyeb.app/spotify)</a>
+<a href="https://open.spotify.com/user/31rzbjzgg5fa54pet4fqqx5dcqeu?si=d4614b32608342ce" target="_blank">![Spotify](https://flask-hello-world-sepia-kappa-73.vercel.app/spotify)</a>
