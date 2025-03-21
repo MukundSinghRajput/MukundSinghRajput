@@ -1,8 +1,3 @@
-```
-Ohoye! Welcome to my profile!
-By the way, my name is Mukund. 😊
-```
-
 ## Languages
 <p>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
