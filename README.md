@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Svelte-f14e32?style=for-the-badge&logo=svelte&logoColor=white" />
 </p>
 
 ## Operating Sytem
