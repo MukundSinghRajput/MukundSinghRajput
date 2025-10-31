@@ -27,4 +27,4 @@
 
 ## Currently Playing
 
-<a href="https://open.spotify.com/user/31rzbjzgg5fa54pet4fqqx5dcqeu?si=d4614b32608342ce" target="_blank">![Spotify](https://swx-kqtw10ktm0d2.deno.dev/playing?id=VtlMPc&ani=true)</a>
+<a href="https://open.spotify.com/user/31rzbjzgg5fa54pet4fqqx5dcqeu?si=d4614b32608342ce" target="_blank">![Spotify](https://swx.deno.dev/playing?id=VtlMPc&ani=true)</a>
