@@ -24,7 +24,3 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
     <img src="https://img.shields.io/badge/Arch-1B36B9?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
 </p>
-
-## Currently Playing
-
-<a href="https://open.spotify.com/user/31rzbjzgg5fa54pet4fqqx5dcqeu?si=d4614b32608342ce" target="_blank">![Spotify](https://swx.deno.dev/playing?id=VtlMPc&ani=true)</a>
